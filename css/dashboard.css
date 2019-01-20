@@ -1,0 +1,45 @@
+.sb{
+    margin: auto;
+  width: 40%;
+  padding-left: 10px;
+  padding-right: 100px;
+}
+
+.ft{
+    position: absolute;
+    top:11.55%;
+    right:30%;
+}
+
+input[type="search"]{
+    
+    width:210px;
+}
+
+input[type="number"]{
+    border-radius:5px;
+    border:1px solid black;
+    width:50px;
+}
+
+input:focus{
+    outline:none;
+}
+input[type="date"]{
+    border-radius:5px;
+    border:1px solid black;
+    
+}
+
+form {
+    padding-left:20px;
+    border-right:1px solid #DDDDDD;
+}
+
+.card {
+    margin-top:40px;
+}
+
+.ava{
+    font-size: 0.8rem;
+}
